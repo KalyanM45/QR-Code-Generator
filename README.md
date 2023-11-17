@@ -1,5 +1,3 @@
-# QR-Code-Generator
-
 # QR Code Generator with Streamlit
 
 This is a simple QR Code Generator built using Python with the Streamlit library. It allows users to input a URL and customize the QR code colors using predefined color pairs. The generated QR code can be easily downloaded.
